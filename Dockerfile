@@ -1,2 +1,2 @@
 FROM alpine:latest
-RUN echo "dummy!"
+RUN echo "testing new push!"
